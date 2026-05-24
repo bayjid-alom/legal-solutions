@@ -1,8 +1,7 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=header&text=Legal%20Solutions&fontSize=32&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Legal%20Solutions&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
 </p>
 
-<br>
 
 ## 🌐 Live Site
 [Visit Legal Solutions](https://bayjid-alom.github.io/legal-solutions/)
